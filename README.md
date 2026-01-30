@@ -1,0 +1,1 @@
+Solução de exercicios de algoritmos do HackerRank
